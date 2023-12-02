@@ -1,0 +1,6 @@
+Conditional statements are programming instructions that make decisions based 
+on certain conditions. They allow the computer to execute specific code blocks
+if a condition is true and different code blocks if the condition is false.
+In simple terms, conditional statements help control the flow of a program, 
+enabling it to respond dynamically to different situations.
+I have shown 2 example of conditional statements

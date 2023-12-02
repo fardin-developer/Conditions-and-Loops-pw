@@ -1,0 +1,5 @@
+Loops in programming are structures that allow you to repeat a set of 
+instructions or statements multiple times. They are essential for automating
+ repetitive tasks and iterating over collections of data. Loops help in 
+ reducing redundancy in your code and make it more efficient.
+
